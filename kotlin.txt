@@ -1,0 +1,23 @@
+1. unit -> void
+
+2. fun func_name(var: var_type): return_type {}
+
+3. kotlin compiler internally creates a class file which is 
+   loaded into memory for excution in runtime -> koltin class        file
+
+4. in kotlin don't have static context
+
+5. val(read only) vs var(mutable)
+
+6. print("the name is ${personObj.name}")
+
+7. REPL -> READ EVAL PRINT LOOP
+
+8. everything is OBJECT in kotlin
+
+9. L,f,D -> long,float,double
+
+10. when ==  switch case but no break is needed, else is used for default case
+
+11. if statement can be used as declaration
+ 
