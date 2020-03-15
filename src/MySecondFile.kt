@@ -13,6 +13,14 @@ fun main() {
     area(45)
     area(60,width = 70)
 
+    //MyKotlinClass kotlinCls = MyK
+
+    var javaClass = MyJavaClass()
+    javaClass.extendedFunc()
+
+    var kotlinClass = MyKotlinClass("Dummy222",5)
+    kotlinClass.extendedFunc()
+
 }
 
 
@@ -30,4 +38,13 @@ fun area(length: Int,width: Int = -5) : Unit {
     println("length $length  &  width $width")
 }
 
-//extension function
+//extension function -> define a function that is part of a class which is defined outside of a class
+fun MyKotlinClass.extendedFunc():Unit {
+    println("Hi i am kotlin extended function!!")
+}
+
+fun MyJavaClass.extendedFunc():Unit {
+    println("Hi i am java extended function!!")
+}
+
+// Infix function is an extension function that contains only one parameter
