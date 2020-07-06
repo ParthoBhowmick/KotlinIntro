@@ -19,6 +19,7 @@ fun main() {
 
     println(list)
 
+    println("array is " + list.toTypedArray())
     println(sumOfList(list.toTypedArray()))
 
     val array = intArrayOf(1,2,3)
