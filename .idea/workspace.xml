@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8121708a-9838-4ba8-9cce-0c2c866d23f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_jetbrains_kotlinx_kotlinx_coroutines_core_1_3_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin/KotlinContainerKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/KotlinContainerKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin/KotlinNullSafetyKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/KotlinNullSafetyKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/kotlin/META-INF/kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/META-INF/kotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaInheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaInheritanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KotlinInterfaceTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/KotlinInterfaceTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin/MyKotlinClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/MyKotlinClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin/ParentCls2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin/ParentCls2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KotlinNullSafety.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/KotlinNullSafety.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -32,14 +38,41 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
-  <component name="RunManager" selected="Kotlin.KotlinNullSafetyKt">
-    <configuration name="JavaInheritanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaInheritanceTest" />
+  <component name="RunManager" selected="Kotlin.FibonacciKt">
+    <configuration name="CoroutineTest1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CoroutineTest1Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.FibonacciKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -52,19 +85,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="KotlinContainerKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KotlinInheritenceSampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="KotlinInheritenceSampleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FibonacciKt" />
         <item itemvalue="Kotlin.KotlinNullSafetyKt" />
+        <item itemvalue="Kotlin.CoroutineTest1Kt" />
         <item itemvalue="Kotlin.KotlinContainerKt" />
         <item itemvalue="Kotlin.KotlinInterfaceTestKt" />
-        <item itemvalue="Application.JavaInheritanceTest" />
-        <item itemvalue="Kotlin.KotlinInheritenceSampleKt" />
       </list>
     </recent_temporary>
   </component>
@@ -120,38 +140,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1004" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583901982758">
+    <state x="209" y="109" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1585295842381">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="1004" y="309" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834@0.0.1536.834" timestamp="1583901982758" />
-    <state width="492" height="246" key="GridCell.Tab.0.bottom" timestamp="1584349000872">
+    <state x="209" y="109" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.834@0.0.1536.834" timestamp="1585295842381" />
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1590050674500">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="492" height="246" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584349000872" />
-    <state width="967" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583654099665" />
-    <state width="492" height="246" key="GridCell.Tab.0.center" timestamp="1584349000872">
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1590050674500" />
+    <state width="1493" height="51" key="GridCell.Tab.0.bottom" timestamp="1593575610545">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="492" height="246" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584349000872" />
-    <state width="967" height="297" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583654099665" />
-    <state width="492" height="246" key="GridCell.Tab.0.left" timestamp="1584349000872">
+    <state width="1493" height="51" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593575610545" />
+    <state width="1493" height="51" key="GridCell.Tab.0.center" timestamp="1593575610545">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="492" height="246" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584349000872" />
-    <state width="967" height="297" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583654099664" />
-    <state width="492" height="246" key="GridCell.Tab.0.right" timestamp="1584349000872">
+    <state width="1493" height="51" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593575610545" />
+    <state width="1493" height="51" key="GridCell.Tab.0.left" timestamp="1593575610545">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="492" height="246" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584349000872" />
-    <state width="967" height="297" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583654099665" />
-    <state x="555" y="62" key="SettingsEditor" timestamp="1584124455112">
+    <state width="1493" height="51" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593575610545" />
+    <state width="1493" height="51" key="GridCell.Tab.0.right" timestamp="1593575610545">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="555" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1584124455112" />
-    <state x="534" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1583774082231">
+    <state width="1493" height="51" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593575610545" />
+    <state x="35" y="0" width="914" height="834" key="SettingsEditor" timestamp="1585334402432">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="534" y="278" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1583774082231" />
-    <state x="667" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583564542314" />
+    <state x="35" y="0" width="914" height="834" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1585334402432" />
+    <state x="117" y="318" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585295824676">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="117" y="318" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834@0.0.1536.834" timestamp="1585295824676" />
   </component>
 </project>

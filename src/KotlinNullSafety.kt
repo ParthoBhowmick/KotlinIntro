@@ -4,10 +4,18 @@
 // ?.let{} -> Safe call with let
 // ?: -> Elvis
 
+fun customFunc(param:String?,param2:Int) {
+    println("param is ${param!!.length} and param2 is $param2")
+}
+
 fun main() {
+
+    customFunc(null,6)
     // make nullable operator
     //val name: String ?= null
     val name: String ?= "Steve"
+
+
 
     // returns null if is actually null otherwise return the length
     println("The length of name is ${name?.length}")
@@ -31,6 +39,5 @@ fun main() {
     //lazy initialization
     // initialized only once then used from cache memory
     
-
 
 }
